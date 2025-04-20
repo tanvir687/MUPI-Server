@@ -1,0 +1,18 @@
+.MUPI-img{
+    height: 150px;
+    width: 150px;
+    margin: 0 auto;
+}
+.first-cart-img{
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.hero-cart div:hover{
+    border: red;
+    border-radius: 25px;
+    background-color: bisque;
+    transition:  all 0.3s ;
+}
